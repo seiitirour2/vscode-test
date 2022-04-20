@@ -1,0 +1,23 @@
+body {
+    font: 1.1em/1.5 sans-serif;
+    padding-top: 20px;
+}
+.main {
+    border: 1px solid;
+    margin: auto
+    padding: 10px 20px 20px;
+    width: 760px;
+}
+
+a:link {
+    color: red;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    font-size: 50px;
+}
+a:focus {
+    background-color: lightblue;
+}
